@@ -22,6 +22,12 @@ font:
     family: FiraCode Nerd Font
     style: SemiBold
 
+shell:
+  program: /bin/zsh
+  args:
+    - -l
+    - -c
+    - "tmux"
 # catppuccin colourscheme
 colors:
     primary:
