@@ -1,9 +1,9 @@
 window:
   opacity: 0.99
-  decorations: none
-  padding:
-    x: 7
-    y: 0
+  # decorations: none
+  # padding:
+  #   x: 7
+  #   y: 0
 
 env:
   TERM: xterm-256color
